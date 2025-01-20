@@ -13,5 +13,6 @@ public class Lab004_variable {
         System.out.printf("9*8=%d\n",num*8);
         System.out.printf("9*9=%d\n",num*9);
         System.out.printf("9*10=%d\n",num*10);
+        
     }
 }
